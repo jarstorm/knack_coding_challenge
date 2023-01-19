@@ -4,7 +4,11 @@ I created a method called `sanitizeObject` in order to remove duplicate elements
 
 ## How to run the app
 `npm init` command to install all dependencies
+
+
 `npm start` run the app to get **clean_application.json** file
+
+
 `npm test`run all the unit test using Jest
 
 ## How it works
